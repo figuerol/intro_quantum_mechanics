@@ -1,0 +1,1 @@
+#look at equation 1.26
