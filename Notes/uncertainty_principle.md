@@ -15,9 +15,9 @@ Now, the second piece of the answer is found in chapter three. The expectation (
 where $^\ast$ is used to symbolize the conjugate and $<>$ denores the expectation. Denote by $<.\ ,\ .>$, the inner product of the Hilbert space of states.
 Therefore, for any state $\Psi$ we have 
 ```math
-\lt\Psi,Q\Psi\gt=\lt Q \gt=\lt Q \gt^*=\lt \Psi,Q^*\Psi \gt=\lt Q\Psi,\Psi \gt
+\lt\Psi^{\ast},Q\Psi\gt=\lt Q \gt=\lt Q \gt^*=\lt \Psi^{\ast},Q^*\Psi \gt=\lt Q\Psi^{\ast},\Psi \gt
 ```
-Which by definition means that the operator $Q$ is self adjoint.
+Which implies that the operator $Q$ is self adjoint.
 
  Then I read the excercise in chapter three that asks wether the composition of two self adjoint operators is self adjoint. So I gave it a try using the definitions and I realized that this true if the operators commute ( TODO:check necessity too, should be true). Then I rememebered the following fact from linear algebra, if two self adjoint linear transformations commute then they are simultanueously diagonalizable.
  
