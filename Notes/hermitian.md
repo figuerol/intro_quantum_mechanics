@@ -7,9 +7,9 @@ After trying out the most simple example I could think of, I connected some dots
 
 A hermitian inner product on a complex vector space $V$ is a map $\lt\ \gt:V\times V\rightarrow \mathbb{C}$ such that
 
-* $ \lt\ \gt$ is linear in the first factor (sesquilinear)
-* $ \lt\ \gt$ is positive definite 
-* $ \lt x\ |\ y\gt = \lt y\ | \ x \gt^\ast$
+* $\lt\ \gt$ is linear in the first factor (sesquilinear)
+* $\lt\ \gt$ is positive definite 
+* $\lt x\ |\ y\gt = \lt y\ | \ x \gt^\ast$
 
  The third item above is what I wasn't sure I understood the motivation of. Why not just require symmetry (and hence bilinearity) like the definition for real vector spaces?
 
